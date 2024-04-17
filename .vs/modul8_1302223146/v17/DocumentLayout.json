@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{030505E6-8BB2-464A-AA08-2EA598098859}|modul8_1302223146\\modul8_1302223146.csproj|c:\\users\\alienware\\source\\repos\\modul8_1302223146\\modul8_1302223146\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030505E6-8BB2-464A-AA08-2EA598098859}|modul8_1302223146\\modul8_1302223146.csproj|solutionrelative:modul8_1302223146\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alienware\\source\\repos\\tpmod8_1302223146\\tpmod8_1302223146\\bin\\Debug\\net8.0\\Covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Covid_config.json",
+              "DocumentMoniker": "C:\\Users\\alienware\\source\\repos\\tpmod8_1302223146\\tpmod8_1302223146\\bin\\Debug\\net8.0\\Covid_config.json",
+              "RelativeDocumentMoniker": "..\\tpmod8_1302223146\\tpmod8_1302223146\\bin\\Debug\\net8.0\\Covid_config.json",
+              "ToolTip": "C:\\Users\\alienware\\source\\repos\\tpmod8_1302223146\\tpmod8_1302223146\\bin\\Debug\\net8.0\\Covid_config.json",
+              "RelativeToolTip": "..\\tpmod8_1302223146\\tpmod8_1302223146\\bin\\Debug\\net8.0\\Covid_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T23:56:16.714Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "modul8_1302223146\\Program.cs",
               "ToolTip": "C:\\Users\\alienware\\source\\repos\\modul8_1302223146\\modul8_1302223146\\Program.cs",
               "RelativeToolTip": "modul8_1302223146\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwKwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T23:40:28.986Z",
               "EditorCaption": ""
